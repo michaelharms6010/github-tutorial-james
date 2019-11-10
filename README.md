@@ -16,3 +16,11 @@ Create a new branch and push to it
 - `git push origin feature-name`
 
 When the feature is complete, open a Pull Request from github to merge changes to master branch
+
+## Nomenclature
+
+clone: copies repository and links it to its github url
+add: adds local files to be tracked. `.` refers to everything in the current folder
+commit: makes a log of current changes with a description
+push: communicates changes to the github server
+
