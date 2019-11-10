@@ -11,7 +11,7 @@ If working alone:
 
 If adding a feature on team project:
 
-- Create a new branch and push to it 
+Create a new branch and push to it 
 - `git checkout -b feature-name`
 - `git push origin feature-name`
 
